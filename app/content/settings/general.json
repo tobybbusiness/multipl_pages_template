@@ -1,7 +1,7 @@
 {
   "title": "Homev",
   "titleTemplate": "| Web Development and 3D Design Consultancy",
-  "welcomeText": "<h1> Welcome. <h1> We are an independant, newly established web development and 3D design consultancy to help you meet your business or personal needs.\n Our aim is to help your business establish an online presence ",
+  "welcomeText": "<h1> Welcome. </h1> We are an independant, newly established web development and 3D design consultancy to help you meet your business or personal needs.\n Our aim is to help your business establish an online presence ",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
